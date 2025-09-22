@@ -1,0 +1,325 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-color: rgb(198, 203, 208);
+}
+
+.hader{
+    background-color: azure;
+}
+
+.l2{
+    display: flex;
+}
+.l3{
+    display: flex;
+    align-items: center;
+}
+.logo{
+height: 40px;
+}
+
+.navdiv{
+
+display: flex;
+justify-content: center;
+gap: 20px;
+}
+.navdiv1{
+    
+    height:50px;
+}
+
+.navdiv2{
+    width: 70vh;
+}
+
+.list{
+   display: flex;
+   justify-content: center;
+   list-style: none;
+   gap: 60px;
+
+}
+.nav3{
+    display: flex;
+    justify-content: end;
+    gap: px;
+}
+.navdiv3{
+    display: flex;
+    align-items: center;
+
+}
+.bodydiv{
+    height: 60vh;
+display: flex;
+justify-content: center;
+align-items: center;
+gap:200px ;
+background-color: rgb(218, 197, 170);
+}
+
+.bodydiv1{
+
+width: 600px;
+}
+.bodydivgap{
+    height: 20vh;
+    padding: 40px;
+}
+.bodydivimg{
+    height: 370px;
+}
+.bodydivtext{
+    font-size: 60px;
+    
+}
+.btn{
+    display: flex;
+    align-items: center;
+    background-color: rgb(127, 76, 76);
+    padding: 5px 10px;
+    gap: 5px;
+    color: white;
+}
+.span-1{
+    font-size: 80px;
+}
+/* .buttondiv{
+    height: 40px;
+    width: 100px;
+    margin-left: 40px;
+   background-color: brown;
+    color: white;
+    border: 2px;
+    border-radius: 8px;
+    align-items: center;
+} */
+.s1{
+   text-align: center; 
+}
+.catagory{
+    justify-content: space-evenly;
+ background-color: rgb(224, 225, 225);
+ padding: 30px;
+ 
+}
+.logo1{
+   
+    display: flex;
+  padding: 20px;
+    gap: 100px;
+    justify-content: space-evenly;
+    
+
+  
+}
+.medicindiv{
+    display: grid;
+    place-items: center;
+}
+.medicindivimg{
+    height: 110px;
+}
+.medicindivfont{
+    margin-top: 10px;
+ display: grid;
+    place-items: center;
+}
+.medicindivP{
+opacity: 70%;
+font-size: x-small;
+
+
+}
+
+.hero{
+    background-color: rgb(212, 211, 210);
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+
+
+
+.hero1{
+    height: 250px;
+    width: 450px;
+    background-color: rgb(236, 241, 241);display: flex;
+    padding: 20px;
+    border-radius: 10px;
+}
+.span-2{
+    width: 150px;
+    /* background-color: rgb(195, 192, 192); */
+    color: rgb(234, 129, 129);
+    padding: 20px;
+
+
+
+}
+.spanPFont{
+font-size: larger;
+}
+
+.heroimg{
+    height: 100%;
+    width: 200px;
+}
+.shd{
+    display: flex;
+    justify-content: space-around;
+    gap: 50px;
+    margin: 30px;
+    padding: 20px;
+
+}
+
+.span-1{
+    margin-top: 20px;
+    font-size:35px;
+    margin-top: 50px;
+    color: black; display: flex;
+    align-items: center;
+}
+.spanimg{
+    height: 5px;
+}
+
+.heromain{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.pera{
+    text-align: center;
+}
+/* .boton{
+     background-color: brown;
+     color: white;
+     width: 20px; */
+     
+/* } */
+.btN{
+    width: 230px;
+    background-color: rgb(241, 239, 239);
+    color: white;
+
+} 
+.btnimg{
+display: flex;
+justify-content: center;
+}
+.manu{
+    padding: 5px;
+}
+.bnn{
+    background-color: brown;
+    color: white;
+    
+}
+.flix{
+    display: flex;
+    gap: 40px;
+}
+.boddyimg{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+.ttl{
+  
+    text-align: center;
+}
+.kote{
+    background-color: hsl(0, 20%, 98%);
+   display: grid;
+    width: 900px;
+   justify-content: center;
+   border-radius: 20px;
+  
+}
+.clint{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.textline{
+    padding: 40px;
+}
+              
+.picid{
+   
+    border-radius: 100%;
+}
+.photo{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+
+.phototext{
+    
+}
+.clients{
+    gap: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+
+
+
+.Footer{
+    display: flex;
+    gap: 50px;
+}
+.ftr{
+    display: grid;
+    align-items: center;
+}
+
+.txt{
+    display: flex;
+   align-items: center;
+   font-size: large;
+
+}
+.footerline{
+    display: flex;
+    justify-content: space-around; 
+    background-color: aliceblue;
+    padding: 10px;
+    gap: 0px;
+}
+.ft-logo{
+    display: flex;
+    gap: 10px;
+}
+.iconpic{
+    display: flex;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* .menu{
+    background-color: blueviolet;
+    width: 500px;
+    height: 200px;
+} */
